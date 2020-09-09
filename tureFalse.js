@@ -14,13 +14,4 @@
 //empty array
 //true
 
-const name = 0;
-if (name ){
-    console.log("true")
-}
-else{
-    console.log("false")
-}
-
-
 
